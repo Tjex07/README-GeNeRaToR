@@ -23,7 +23,7 @@ return inquirer.prompt([
     {
       type: 'input',
       name: 'usage',
-      message: 'How does one use this readme generator?',
+      message: 'How does one use this application?',
     },
     {
       type: 'input',
