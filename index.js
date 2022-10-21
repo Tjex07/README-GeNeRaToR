@@ -27,7 +27,7 @@ return inquirer.prompt([
     },
     {
       type: 'input',
-      name: 'usage',
+      name: 'test',
       message: 'How does one test this readme generator?',
     },
     {
